@@ -1,2 +1,2 @@
-# Sistemas-de-Gestion-de-la-Empresa-SGE
-Prácticas de la asignatura Sistemas de Gestión de la Empresa SGE del Grado en Ingeniería del Software de la Universidad Complutense de Madrid UCM
+# Sistemas de Gestión de la Empresa
+Prácticas de la asignatura SGE del Grado en Ingeniería del Software de la Universidad Complutense de Madrid
