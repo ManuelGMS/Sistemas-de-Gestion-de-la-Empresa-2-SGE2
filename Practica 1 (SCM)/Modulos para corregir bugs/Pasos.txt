@@ -1,0 +1,8 @@
+PASOS PARA INSTALAR UN MÓDULO:
+
+1º) Ubica el módulo en: "/usr/lib/python3/dist-packages/odoo/addons/"
+2º) Reinicia el servicio Odoo --> sudo systemctl restart odoo.service
+
+CORRECCIÓN DE BUGS:
+
++ Corregir el bug de ajustes de inventario: "There is already one inventory adjustment line for this product" (fix_inventory_line_constraint-master)
